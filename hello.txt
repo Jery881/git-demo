@@ -13,5 +13,6 @@ hello git!
 hello git!
 hello git!
 hello git! master master master master master
+hello git! hot-fix hot-fix hot-fix hot-fix
 hello git!
 hello git!
